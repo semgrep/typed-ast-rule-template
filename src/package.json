@@ -1,0 +1,15 @@
+{
+  "private": "true",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/estree": "0.0.39",
+    "@types/node": "^12.7.2",
+    "typescript": "^3.6.2"
+  },
+  "dependencies": {
+    "@r2c/typed-ast-util": "^0.1.2",
+    "stadt": "^0.3.1"
+  }
+}
